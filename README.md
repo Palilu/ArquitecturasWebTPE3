@@ -1,5 +1,5 @@
-# ArquitecturasWebTPE2
-Trabajo práctico especial para Arquitecturas Web, Segunda Entrega
+# ArquitecturasWebTPE3
+Trabajo práctico especial para Arquitecturas Web, Tercera Entrega
 
 Seguimos usando [Proyecto Lombok](https://projectlombok.org/)
 
